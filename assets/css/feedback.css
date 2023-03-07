@@ -11,4 +11,8 @@ h1{
     display: flex;
     width:30%;
     margin: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: rgb(155, 113, 194);
 }
